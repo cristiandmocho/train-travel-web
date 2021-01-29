@@ -1,0 +1,11 @@
+{
+  "include": ["./src/**/*"],
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "components/*": ["src/components/*"],
+      "views/*": ["src/views/*"],
+      "models/*": ["src/models/*"]
+    }
+  }
+}
