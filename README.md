@@ -1,5 +1,7 @@
 # Train Travel Web
 
+Web App that uses the Irish Rail API to show all trains attending the selected station in the next 90 minutes. It shows the train code, origin, destination, due time in minutes and direction. The selection of the stations is made by an auto-complete feature. The project was made with Vue and Vuetify. It depends on the `train-travel-api` project, also available in my public repositories.
+
 > Author: **Cristian Mocho**
 >
 > cristiandmocho@gmail.com
